@@ -7,3 +7,10 @@
 .navbar.fixed-top ~ .content {
     padding-top: 70px;
 }
+
+.codehilite {
+    background-color: #F3F3F3;
+    line-height: 1em;
+    margin: 0.25em;
+    padding: 0.5em;
+}
